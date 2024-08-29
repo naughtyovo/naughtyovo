@@ -1,4 +1,6 @@
 ## Hi there 👋
+😄大家好，我是宋观瑞
+🤔我是一名计算机专业的学生
 
 <!--
 **naughtyovo/naughtyovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
